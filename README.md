@@ -41,7 +41,8 @@ Desktop → IP Configuration → DHCP
 From any PC2:
 ping 192.168.50.16
 ping other PCs/servers
- ![Uploading image.png…]()
+ <img width="1230" height="697" alt="image" src="https://github.com/user-attachments/assets/afc76076-edf4-4b6c-8a46-037482464b52" />
+
 
 Successful replies confirm DHCP + routing works.
 ## 8. Conclusion
